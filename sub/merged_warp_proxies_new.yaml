@@ -3068,7 +3068,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip30.6929198.xyz
-- name: 油管绵阿羊_None_vmess_297
+- name: 油管绵阿羊_United States_vmess_297
   type: vmess
   server: malaysia.com
   port: 2082
@@ -3083,7 +3083,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip30.6929198.xyz
-- name: 油管绵阿羊_United States_vmess_298
+- name: 油管绵阿羊_None_vmess_298
   type: vmess
   server: russia.com
   port: 2082
@@ -3725,8 +3725,8 @@ proxy-groups:
   - 油管绵阿羊_United States_vmess_294
   - 油管绵阿羊_None_vmess_295
   - 油管绵阿羊_None_vmess_296
-  - 油管绵阿羊_None_vmess_297
-  - 油管绵阿羊_United States_vmess_298
+  - 油管绵阿羊_United States_vmess_297
+  - 油管绵阿羊_None_vmess_298
   - 油管绵阿羊_None_vmess_299
   - 油管绵阿羊_None_vmess_2100
   - 油管绵阿羊_United States_vmess_2101
@@ -3958,8 +3958,8 @@ proxy-groups:
   - 油管绵阿羊_United States_vmess_294
   - 油管绵阿羊_None_vmess_295
   - 油管绵阿羊_None_vmess_296
-  - 油管绵阿羊_None_vmess_297
-  - 油管绵阿羊_United States_vmess_298
+  - 油管绵阿羊_United States_vmess_297
+  - 油管绵阿羊_None_vmess_298
   - 油管绵阿羊_None_vmess_299
   - 油管绵阿羊_None_vmess_2100
   - 油管绵阿羊_United States_vmess_2101
@@ -4191,8 +4191,8 @@ proxy-groups:
   - 油管绵阿羊_United States_vmess_294
   - 油管绵阿羊_None_vmess_295
   - 油管绵阿羊_None_vmess_296
-  - 油管绵阿羊_None_vmess_297
-  - 油管绵阿羊_United States_vmess_298
+  - 油管绵阿羊_United States_vmess_297
+  - 油管绵阿羊_None_vmess_298
   - 油管绵阿羊_None_vmess_299
   - 油管绵阿羊_None_vmess_2100
   - 油管绵阿羊_United States_vmess_2101
