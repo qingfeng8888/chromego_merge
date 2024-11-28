@@ -16598,7 +16598,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e2.6929198.xyz
-- name: 油管绵阿羊_None_vmess_2100
+- name: 油管绵阿羊_United States_vmess_2100
   type: vmess
   server: skk.moe
   port: 2082
@@ -16613,7 +16613,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: e2.6929198.xyz
-- name: 油管绵阿羊_United States_vmess_2101
+- name: 油管绵阿羊_None_vmess_2101
   type: vmess
   server: www.visa.com
   port: 2082
@@ -62888,8 +62888,8 @@ proxy-groups:
   - 油管绵阿羊_None_vmess_297
   - 油管绵阿羊_None_vmess_298
   - 油管绵阿羊_United States_vmess_299
-  - 油管绵阿羊_None_vmess_2100
-  - 油管绵阿羊_United States_vmess_2101
+  - 油管绵阿羊_United States_vmess_2100
+  - 油管绵阿羊_None_vmess_2101
   - 油管绵阿羊_None_vmess_31
   - 油管绵阿羊_None_vmess_32
   - 油管绵阿羊_None_vmess_33
@@ -67008,8 +67008,8 @@ proxy-groups:
   - 油管绵阿羊_None_vmess_297
   - 油管绵阿羊_None_vmess_298
   - 油管绵阿羊_United States_vmess_299
-  - 油管绵阿羊_None_vmess_2100
-  - 油管绵阿羊_United States_vmess_2101
+  - 油管绵阿羊_United States_vmess_2100
+  - 油管绵阿羊_None_vmess_2101
   - 油管绵阿羊_None_vmess_31
   - 油管绵阿羊_None_vmess_32
   - 油管绵阿羊_None_vmess_33
@@ -71128,8 +71128,8 @@ proxy-groups:
   - 油管绵阿羊_None_vmess_297
   - 油管绵阿羊_None_vmess_298
   - 油管绵阿羊_United States_vmess_299
-  - 油管绵阿羊_None_vmess_2100
-  - 油管绵阿羊_United States_vmess_2101
+  - 油管绵阿羊_United States_vmess_2100
+  - 油管绵阿羊_None_vmess_2101
   - 油管绵阿羊_None_vmess_31
   - 油管绵阿羊_None_vmess_32
   - 油管绵阿羊_None_vmess_33
